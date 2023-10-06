@@ -10,9 +10,9 @@ Django version: 1.6
 Installation and launching
 ==========================
 
-[Follow this steps
+[ Follow this steps
 1. Create the docker image of notejam names "myjam"
-2. docker compose up --build]
+2. docker compose up --build ]
 -----
 Clone
 -----
