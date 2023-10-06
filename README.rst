@@ -1,5 +1,5 @@
 ***************
-Notejam: Django
+Notejam: Django-PostgreSql
 ***************
 
 Notejam application implemented using `Django <https://www.djangoproject.com/>`_ framework.
@@ -10,6 +10,9 @@ Django version: 1.6
 Installation and launching
 ==========================
 
+
+1. Create the docker image of notejam names "myjam"
+2. docker compose up --build
 -----
 Clone
 -----
